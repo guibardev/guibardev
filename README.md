@@ -7,6 +7,4 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas, com previsão de for
 Estou comprometido com o desenvolvimento e implantação de soluções tecnológicas que agreguem valor, resolvam problemas e otimizem operações em diversas áreas.
 
  www.linkedin.com/in/guibardev
- 
- # -----------------------
 
