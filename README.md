@@ -48,3 +48,5 @@ else:
 ```
 Olá tudo bem? 🚀
 Para inserir emotions.... digite : e escreva o nome do emotion.
+
+[ACESSE A LISTA COMPLETA DE EMOTION](https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file)
