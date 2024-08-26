@@ -44,8 +44,7 @@ num = int(input('Digite um valor:')
 if num % 2==0:
   print(f'O valor {num} é PAR')
 else:
-  print(f'O valor {num} é Í![ASSINATURA PEÇA SCAP](https://github.com/user-attachments/assets/ca858703-e050-4065-9c97-32e9e0ae5bff)
-MPAR')
+  print(f'O valor {num} é ÍMPAR')
 ```
 Olá tudo bem? 🚀
 Para inserir emotions.... digite : e escreva o nome do emotion.
