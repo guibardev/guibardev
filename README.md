@@ -30,7 +30,7 @@ Lista de Tarefas futuro (Testes README.md):
 - [ ] Realizar Curso Python
 - [ ] Realizar Curso JavaScript
 
-![ASSINATURA](https://github.com/user-attachments/assets/0a90b992-7747-4120-b46a-b34da416e3f1)
+![ASSINATURA](https://github.com/user-attachments/assets/7eb98650-7f22-48df-a04d-53ad45d44999)
 
 [Acesse meu Github](https://github.com/guibardev)
 
@@ -44,7 +44,8 @@ num = int(input('Digite um valor:')
 if num % 2==0:
   print(f'O valor {num} é PAR')
 else:
-  print(f'O valor {num} é ÍMPAR')
+  print(f'O valor {num} é Í![ASSINATURA PEÇA SCAP](https://github.com/user-attachments/assets/ca858703-e050-4065-9c97-32e9e0ae5bff)
+MPAR')
 ```
 Olá tudo bem? 🚀
 Para inserir emotions.... digite : e escreva o nome do emotion.
