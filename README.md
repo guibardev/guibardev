@@ -30,7 +30,7 @@ Lista de Tarefas futuro (Testes README.md):
 - [ ] Realizar Curso Python
 - [ ] Realizar Curso JavaScript
 
-![ASSINATURA](https://github.com/user-attachments/assets/7eb98650-7f22-48df-a04d-53ad45d44999)
+![ASSINATURA](https://github.com/user-attachments/assets/48a47802-594b-4e79-9b94-34704637fe05)
 
 [Acesse meu Github](https://github.com/guibardev)
 
