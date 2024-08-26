@@ -18,7 +18,7 @@ __*Atualmente cursando Análise e Desenvolvimento de Sistemas*__, com previsão 
 11. *MySQL*
 12. *Github*
 
-com o objetivo de me tornar um Desenvolvedor Full Stack.
+>com o objetivo de me tornar um Desenvolvedor Full Stack.
 
 Estou comprometido com o desenvolvimento e implantação de soluções tecnológicas que agreguem valor, resolvam problemas e otimizem operações em diversas áreas.
 
