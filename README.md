@@ -33,3 +33,7 @@ Lista de Tarefas futuro (Testes README.md):
 ![ASSINATURA](https://github.com/user-attachments/assets/0a90b992-7747-4120-b46a-b34da416e3f1)
 
 [Acesse meu Github](https://github.com/guibardev)
+
+Nome | Idade | Curso
+---|---|---
+Guilherme|34|ADS
