@@ -46,3 +46,5 @@ if num % 2==0:
 else:
   print(f'O valor {num} é ÍMPAR')
 ```
+Olá tudo bem? 🚀
+Para inserir emotions.... digite : e escreva o nome do emotion.
