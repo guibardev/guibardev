@@ -37,3 +37,12 @@ Lista de Tarefas futuro (Testes README.md):
 Nome | Idade | Curso
 ---|---|---
 Guilherme|34|ADS
+
+Programa Python
+```
+num = int(input('Digite um valor:')
+if num % 2==0:
+  print(f'O valor {num} é PAR')
+else:
+  print(f'O valor {num} é ÍMPAR')
+```
