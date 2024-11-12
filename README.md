@@ -8,15 +8,8 @@ __*Atualmente cursando Análise e Desenvolvimento de Sistemas*__, com previsão 
 1. `JavaScript`
 2. *Java*
 3. *Python*
-4. *Kotlin*
-5. *C++*
-6. *Flutter*
-7. *React*
-8. *Angular*
-9. *Bootstrap*
-10. *SQL*
-11. *MySQL*
-12. *Github*
+__*Banco de Dados:
+1. *MySQL*
 
 >com o objetivo de me tornar um Desenvolvedor Full Stack.
 
