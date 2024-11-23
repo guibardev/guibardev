@@ -1,8 +1,6 @@
 <h2 align="left">Olá! Me chamo Guilherme Barbosa.</h2>
 *Atualmente estou cursando Análise e Desenvolvimento de Sistemas*, com previsão de formatura em agosto de 2026. Estou me aprofundando no aprendizado de linguagens de programação como:
 
-<br>
-
 1. `JavaScript`
 2. *Java*
 3. *Python*
