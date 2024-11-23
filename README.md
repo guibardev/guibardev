@@ -5,6 +5,7 @@ __*Atualmente cursando Análise e Desenvolvimento de Sistemas*__, com previsão 
 1. `JavaScript`
 2. *Java*
 3. *Python*
+
 __*Banco de Dados:*__
 1. *MySQL*
 
