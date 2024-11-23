@@ -6,7 +6,7 @@ __*Atualmente cursando Análise e Desenvolvimento de Sistemas*__, com previsão 
 2. *Java*
 3. *Python*
 
-__*Banco de Dados:__
+_*Banco de Dados:*_
 1. *MySQL*
 
 >Com o objetivo de me tornar um Desenvolvedor Full Stack em breve.
