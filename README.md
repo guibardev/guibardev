@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Eu sou o Guilherme Barbosa</h2>
+<h2 align="left">Olá! Eu sou o Guilherme Barbosa.</h2>
 
 __*Atualmente cursando Análise e Desenvolvimento de Sistemas*__, com previsão de formatura em agosto de 2026. Estou me aprofundando no aprendizado de linguagens de programação como:
 
