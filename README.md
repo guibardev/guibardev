@@ -35,8 +35,7 @@
 
 ###
 
-<br clear="both">
-
+<br>
 <img src="https://raw.githubusercontent.com/guibardev/guibardev/output/snake.svg" alt="Snake animation" />
 
 ###
