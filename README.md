@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Meu nome  Guilherme Barbosa,  e sou estudante de Análise e Desenvolvimento de Sistemas.</h2>
+<h2 align="left">Olá! Me chamo Guilherme! Sou estudante de Análise e Desenvolvimento de Sistemas.</h2>
 
 ###
 
