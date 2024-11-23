@@ -6,8 +6,6 @@ __*Atualmente cursando Análise e Desenvolvimento de Sistemas*__, com previsão 
 2. *Java*
 3. *Python*
 
->Com o objetivo de me tornar um Desenvolvedor Full Stack em breve.
-
 ###
 
 <div align="center">
